@@ -1,0 +1,1 @@
+SELECT * FROM less1.student;
